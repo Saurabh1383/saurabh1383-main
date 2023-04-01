@@ -5,20 +5,18 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/harshvardhanofficial/">
+  <a href="https://www.linkedin.com/in/suman-saurabh-3b30381b8//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Hi_harsh_2804">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
   <br>
-  <img  src="https://komarev.com/ghpvc/?username=harshvardhan2804&style=flat-square&color=blue"  >
+  <img  src="https://komarev.com/ghpvc/?username=saurabh1383&style=flat-square&color=blue"  >
 </div>
 
 ![](https://komarev.com/ghpvc/?harshvardhan2804&color=green)
 
 <h1 align="center" >
-  SUMAN SAURABH 
+  SUMAN SAURABH ❤️
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="45px">
 </h1>
 
