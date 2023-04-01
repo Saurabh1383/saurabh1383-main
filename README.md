@@ -46,12 +46,12 @@
 
 ### :fire: My Stats :
 
+<img src = "https://github-readme-stats.vercel.app/api?username=saurabh1383&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh1383)](https://github.com/Saurabh1383/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabh1383&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## Note- Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
-[![Top Langs](https://github-readme-stags/?username=saurabh1383&layout=compact&theme=vision-friendly-dark)](https://github.com/saurabh1383/github-readme-stats)ts.vercel.app/api/top-lan
+
 
 
 
