@@ -31,7 +31,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 - 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Sass & PHP
-- 🌱 I’m currently learning ... Cybersecurity
+- 🌱 I’m currently learning ... Blockchain
 - 👯 I’m looking to collaborate on ...Fullstack development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... HTML, CSS, JS, Bootstrap, SASS, PHP & LARAVEL
