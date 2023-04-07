@@ -30,7 +30,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-- 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap, Sass & PHP
+- 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Reactjs, Tailwind, Bootstrap, Sass & PHP
 - 🌱 I’m currently learning ... BlockChain
 - 👯 I’m looking to collaborate on MERN Technology
 - 🤔 I’m looking for help with ...
